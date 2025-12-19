@@ -40,39 +40,6 @@ Real-time fitness coaching powered by Gemini AI with pose estimation and rep cou
 - **Features:** Real-time rep detection, proactive AI encouragement, pose estimation with knee angle tracking
 - Implements smart cooldown systems and consecutive frame tracking for stable detection
 
-### 🏋️ [Squat Coach](https://github.com/saipranavr/squat-coach)
-Browser-based AI personal trainer for analyzing squat form in real-time
-- **Tech:** JavaScript, HTML5, CSS3, MediaPipe
-- **Features:** Real-time camera access, live form analysis, responsive design
-- Ready for OpenAI Vision API integration and pose estimation enhancements
-
-### ♟️ [Chess Arena](https://github.com/saipranavr/chess-ARENA)
-Modern chess puzzle platform with daily rotating challenges
-- **Tech:** React, TypeScript, Node.js, Express
-- **Features:** Daily chess puzzles, responsive chessboard, X-style dark theme UI
-- Real-time puzzle loading with React Query
-- ⭐ 1 star
-
-### 🎯 [Exercise Correction](https://github.com/saipranavr/Exercise-Correction)
-Computer vision system for analyzing and correcting exercise form
-- **Tech:** Python, Computer Vision
-- 3D pose-based feedback for physical exercises
-
-### 🗺️ [DroneVO](https://github.com/saipranavr/DroneVO)
-Drone visual odometry and trajectory visualization system
-- **Tech:** Python, Flask, Computer Vision
-- Features 3D trajectory plotting and visual odometry analysis
-
-### 🤖 [Columbus AI](https://github.com/saipranavr/Columbus-ai)
-AI-powered exploration and navigation system
-- **Tech:** Python
-- Intelligent pathfinding and exploration algorithms
-
-### 🌍 [25-LDTH-Relocalisation](https://github.com/saipranavr/25-LDTH-Relocalisation)
-Relocalisation challenge solution with multi-scale feature matching
-- **Tech:** Python
-- Forked from Arondite's London Defence Tech Hackathon challenge
-
 ### ♻️ [RecycleRightUK](https://github.com/saipranavr/RecycleRightUK)
 Mobile app for sustainable recycling practices in the UK
 - **Tech:** JavaScript, React Native, Expo
@@ -84,10 +51,10 @@ Computer vision model for food recognition
 - **Tech:** Python, Jupyter Notebook
 - Deep learning-based food classification
 
-### 📖 [Vocab Vault App](https://github.com/saipranavr/vocab-vault-app)
-Vocabulary learning and management application
-- **Tech:** C++
-- Efficient vocabulary storage and retrieval system
+### 🤖 [Columbus AI](https://github.com/saipranavr/Columbus-ai)
+Generates itinerary videos after entering a prompt
+- **Tech:** Python
+- Used VEED and multiple video searching algorithms to combine all of the knowledge into a single system
 
 ## 📊 GitHub Stats
 
@@ -103,8 +70,8 @@ Vocabulary learning and management application
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pranav-reddy-saipranavr)
-- 🌐 [Portfolio](https://saipranavr.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranavreddy-)
+- 🌐 [Portfolio](https://pranav-reddy.com)
 - 📧 Feel free to reach out for collaborations or opportunities!
 
 ---
